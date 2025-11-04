@@ -48,9 +48,9 @@ frontend/
 ├── actions/           # Server actions for data mutations
 ├── app/               # App router pages and layouts
 ├── components/        # Reusable UI components
-├── context/          # React context providers
 ├── data/             # Static data and types
 ├── firebase/         # Firebase configuration
+├── providers/         # Toolpad providers
 └── src/              # Core application code
 ```
 
